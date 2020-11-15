@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhaoheng "Billy" Li"
+title: "Zhaoheng \"Billy\" Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
