@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior-year undergraduate student pursuing a dual degree in [Computer Science & statistics](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science) and [Mathematics](https://math.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/).
+I am a Senior-year undergraduate student pursuing a dual degree in [Computer Science & Statistics](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science) and [Mathematics](https://math.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). My research interests are Network Mining and Recommender Systems.
+
+I have 
 
 A data-driven personal website
 ======
