@@ -1,9 +1,9 @@
 ---
-title: "REFORM: Fast and Adaptive Solution for Subteam Replacement, submitted to WWW 2021"
+title: "REFORM: Fast and Adaptive Solution for Subteam Replacement"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 ---
-Zhaoheng Li, Xinyu Pi, Mingyuan Wu, Hanghang Tong
+Zhaoheng Li, Xinyu Pi, Mingyuan Wu, Hanghang Tong; submitted to WWW 2021
 
 **Abstract**
 
