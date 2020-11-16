@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * B.S. in Computer Science and Statistics, University of Illinois at Urbana-Champaign, Urbana, IL, United States, May 2021 (Expected)
   * Major GPA: 4.0/4.0
-  * Senior thesis: "REFORM: Fast and Adaptive Solution for Subteam Replacement"
+  * Thesis: "REFORM: Fast and Adaptive Solution for Subteam Replacement"
   * Advisor: Hanghang Tong
 * B.A. in Mathematics, University of Illinois at Urbana-Champaign, Urbana, IL, United States, May 2021 (Expected)
   * Major GPA: 3.94/4.0
@@ -22,39 +24,39 @@ Publications
 ======
 * Zhaoheng Li, Xinyu Pi, Mingyuan Wu, Hanghang Tong: *REFORM: Fast and Adaptive Solution for Subteam Replacement*, submitted to WWW 2021
 
+Research experience
+======
+* REFORM: Fast and Adaptive Solution for Subteam Replacement
+  * February 2020 - October 2020
+  * Supervised by Prof. Hanghang Tong
+* Deep Steerable Graph Generation
+  * February 2020 - July 2020
+  * With Xinyu Pi, Jonathan Chang, and Prof. Carl Yang
+
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Software Engineer Intern @ Google
+  * ContentAds Experiments team, Google Ads
+  * Host: Dr. Darek Yung
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Software Engineer Intern @ Google
+  * Google Local Services team, Google Ads
+  * Host: Dr. Bharath Pattabiraman
   
-Skills
+Graduate Coursework
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* [CS 512: Data Mining Principles](https://cs.illinois.edu/academics/courses/CS512)
+* [CS 598: Network Mining](https://cs.illinois.edu/academics/courses/CS598-120201)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Course assistant for [CS 125: Introduction to Computer Science](https://cs125.cs.illinois.edu/)
+
+Honors & Awards
 ======
-* Currently signed in to 43 different slack teams
+* Finalist, C1Games Terminal Game AI competition
+  * September 2019
+* Best Data Visualization Award, 2019 Illini Datathon
+  * February 2019
+* College Dean's List
+  * Fall 2017 - Spring 2020
