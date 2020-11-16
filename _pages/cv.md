@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science and Statistics, University of Illinois at Urbana-Champaign, Urbana, IL, United States, May 2021 (Expected)
+  * Major GPA: 4.0/4.0
+  * Senior thesis: "REFORM: Fast and Adaptive Solution for Subteam Replacement"
+  * Advisor: Hanghang Tong
+* B.A. in Mathematics, University of Illinois at Urbana-Champaign, Urbana, IL, United States, May 2021 (Expected)
+  * Major GPA: 3.94/4.0
+  
+Publications
+======
+* Zhaoheng Li, Xinyu Pi, Mingyuan Wu, Hanghang Tong: *REFORM: Fast and Adaptive Solution for Subteam Replacement*, submitted to WWW 2021
 
 Work experience
 ======
@@ -35,12 +42,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
