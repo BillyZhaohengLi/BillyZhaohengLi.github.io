@@ -17,6 +17,7 @@ Education
   * Major GPA: 4.0/4.0
   * Thesis: "REFORM: Fast and Adaptive Solution for Subteam Replacement"
   * Advisor: Hanghang Tong
+  * Expected Department Honors
 * B.A. in Mathematics, University of Illinois at Urbana-Champaign, Urbana, IL, United States, May 2021 (Expected)
   * Major GPA: 3.94/4.0
   
