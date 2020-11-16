@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am interested in building scalable and explainable Recommender Systems with the help of Network Mining techniques. My work is focused on the building of practical end-to-end solutions for problems with applications in social network analysis and content recommendation, and providing rigourous mathematical proofs for the validity of my methods. I particularly enjoy working with graph algorithms, complexity theory and statistical/machine learning, and my research goal is to discover new data types which recommender systems can be built for to expand the scope of field.
+I am interested in building scalable and explainable Recommender Systems with the help of Network Mining techniques. My work is focused on the building of practical end-to-end solutions for problems with applications in social network analysis and content recommendation, and providing rigourous mathematical proofs for the validity of my methods. I particularly enjoy working with graph algorithms, complexity theory and statistical/machine learning, and my research goal is to explore new ways to - data types, theories, etc. - to build recommender systems to expand the scope of field.
 
 Education
 ======
