@@ -23,7 +23,7 @@ Education
   
 Publications
 ======
-* Zhaoheng Li, Xinyu Pi, Mingyuan Wu, Hanghang Tong: *REFORM: Fast and Adaptive Solution for Subteam Replacement*, submitted to WWW 2021
+* Zhaoheng Li, Xinyu Pi, Mingyuan Wu, Hanghang Tong: *REFORM: Fast and Adaptive Solution for Subteam Replacement*, in submission
 
 Research experience
 ======
