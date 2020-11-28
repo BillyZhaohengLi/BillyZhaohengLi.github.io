@@ -14,4 +14,4 @@ My research interests lay in the intersection of **Network Mining** and **Recomm
 
 I have done research on Disentangling GANs with Prof. [Carl Yang](http://jiyang3.web.engr.illinois.edu/), and recently completed my senior thesis on the novel problem of Subteam Replacement under the supervision of Prof. [Hanghang Tong](http://tonghanghang.org/). I have also contributed to building tried and tested ranking algorithms at Google Ads as a software engineer intern two summers in a row in the ContentAds team under Dr. [Darek Yung](https://www.linkedin.com/in/darekyung/?originalSubdomain=ca) and in the Google Local Services team under Dr. [Bharath Pattabiraman](http://users.eecs.northwestern.edu/~bpa342/Bharath/About_Me.html) respectively.
 
-I am actively applying to Ph.D. programs and will graduate in May 2021.
+I am actively applying to graduate programs and will graduate in May 2021.
