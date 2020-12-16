@@ -1,9 +1,9 @@
 ---
 title: "Subteam Replacement: Problem Definition and Fast Solution"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-2
+permalink: /publication/2009-10-01-paper-title-number-1
 ---
-Zhaoheng Li, Xinyu Pi, Mingyuan Wu, (In Submission)
+Zhaoheng Li, Xinyu Pi, Mingyuan Wu, (Extended Abstract, In Submission)
 
 **Abstract**
 
