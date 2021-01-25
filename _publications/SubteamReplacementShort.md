@@ -3,7 +3,7 @@ title: "Subteam Replacement: Problem Definition and Fast Solution"
 collection: publications
 permalink: /publication/2020-12-09-Subteam_Replacement
 ---
-Zhaoheng Li, Xinyu Pi, Mingyuan Wu, (Extended abstract, SIGMOD SRC 2021)
+Zhaoheng Li, Xinyu Pi, Mingyuan Wu (SIGMOD SRC 2021)
 
 **Abstract**
 
