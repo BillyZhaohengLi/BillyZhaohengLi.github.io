@@ -3,7 +3,7 @@ title: "REFORM: Fast and Adaptive Solution for Subteam Replacement"
 collection: publications
 permalink: /publication/2020-11-15-REFORM
 ---
-Zhaoheng Li, Xinyu Pi, Mingyuan Wu, Hanghang Tong [arXiv preprint](https://arxiv.org/abs/2101.11070)
+Zhaoheng Li, Xinyu Pi, Mingyuan Wu, Hanghang Tong [(arXiv preprint)](https://arxiv.org/abs/2101.11070)
 
 **Abstract**
 
