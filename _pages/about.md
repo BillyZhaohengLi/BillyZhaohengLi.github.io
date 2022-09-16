@@ -17,10 +17,10 @@ My current works:
  - Elastic notebook: fast notebook migration for machine learning and EDA
 
 My previous research projects:
- - [REFORM: Fast and Adaptive Solution for Subteam Replacement](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo) (IEEE BigData 2023, Senior thesis with Xinyu Pi, Mingyuan Wu, and Prof. [Hanghang Tong](http://tonghanghang.org/))
+ - [REFORM: Fast and Adaptive Solution for Subteam Replacement](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo) (IEEE BigData 2022, with Xinyu Pi, Mingyuan Wu, and Prof. [Hanghang Tong](http://tonghanghang.org/))
  - Deep Steerable Graph Generation with Prof. [Carl Yang](http://jiyang3.web.engr.illinois.edu/)
 
-I am a 3 time software engineer intern at Google:
+I am a three-time software engineer intern at Google:
   - Summer 2022: Google Cloud, DAS-Performance, SQL query profiling with BPF with [Tengyu Sun](https://www.linkedin.com/in/tengyusun/) and [Hao Luo](https://www.linkedin.com/in/hao-luo-4683b44b/)
   - Summer 2020: Google Ads, Google Local Services, improved ranking algorithms for Home Services Ads with Dr. [Bharath Pattabiraman](http://users.eecs.northwestern.edu/~bpa342/Bharath/About_Me.html)
   - Summer 2019: Google Ads, ContentAds Team, monitoring service for ContentAds requests with Dr. [Darek Yung](https://www.linkedin.com/in/darekyung/?originalSubdomain=ca)
