@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year CS PhD student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am a member of [CreateLab](https://createlab.cs.illinois.edu/) advised by [Prof. Yongjoo Park](https://cs.illinois.edu/about/people/faculty/yongjoo).
 
-My research interests lie within **Database Systems** on the topics of **Workload optimization** and **Latency reduction for ad-hoc analytical queries**. My recent work focuses on capturing and utilizing both client and server-side metrics from previous/recurring workloads to speedup future workloads through a combination of caching and pre-computation. I frequently employ techniques from graph algorithms and combinatorial optimization in my work.
+My research interests lie within **Database Systems** on the topics of **Workload optimization** and **Latency reduction for ad-hoc analytical queries**. My recent work focuses on capturing and utilizing both client and server-side metrics from previous/recurring workloads to speedup future workloads through a combination of caching and pre-computation. I frequently employ techniques from graph mining and combinatorial optimization in my work.
 
 My current works:
  - S/C: Speeding up Data Materialization with Bounded Memory (In submission, SIGMOD 2023)
