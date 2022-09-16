@@ -8,10 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior-year undergraduate student pursuing a dual degree in [Computer Science & Statistics](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science) and [Mathematics](https://math.illinois.edu/) at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). 
+I am a second-year CS PhD student at the [University of Illinois at Urbana-Champaign](https://illinois.edu/). I am a member of [CreateLab](https://createlab.cs.illinois.edu/) advised by [Prof. Yongjoo Park](https://cs.illinois.edu/about/people/faculty/yongjoo).
 
-My research interests lie within **Data Mining** on the topic of **Network Mining**. I enjoy finding new, innovative ways to formalize impactful problems and building practical end-to-end solutions employing graph algorithms, complexity theory and statistical/machine learning, am primarily concerned about the topics of scalability and explainability, and am particularly interested in works with applications in social network analysis, recommender systems, and advertising. My research goal is to develop new mining techniques by incorporating suitable inter-disciplinary methodology to expand the scope of my field of study.
+My research interests lie within **Database Systems** on the topics of **Workload optimization** and **Latency reduction for ad-hoc analytical queries**. My recent work focuses on capturing and utilizing both client and server-side metrics from previous/recurring workloads to speedup future workloads through a combination of caching and pre-computation. I frequently employ techniques from graph algorithms and combinatorial optimization in my work.
 
-I have done research on Deep Steerable Graph Generation with Prof. [Carl Yang](http://jiyang3.web.engr.illinois.edu/), and recently completed my senior thesis on the novel problem of Subteam Replacement under the supervision of Prof. [Hanghang Tong](http://tonghanghang.org/). I have also contributed to building tried and tested ranking algorithms at Google Ads as a software engineer intern two summers in a row in the ContentAds team under Dr. [Darek Yung](https://www.linkedin.com/in/darekyung/?originalSubdomain=ca) and in the Google Local Services team under Dr. [Bharath Pattabiraman](http://users.eecs.northwestern.edu/~bpa342/Bharath/About_Me.html) respectively.
+My current works:
+ - S/C: Speeding up Data Materialization with Bounded Memory (In submission, SIGMOD 2023)
 
-I am actively applying to graduate programs and will graduate in May 2021.
+My previous research projects:
+ - [REFORM: Fast and Adaptive Solution for Subteam Replacement](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo) (IEEE BigData 2023, Senior thesis with Xinyu Pi, Mingyuan Wu, and Prof. [Hanghang Tong](http://tonghanghang.org/))
+ - Deep Steerable Graph Generation with Prof. [Carl Yang](http://jiyang3.web.engr.illinois.edu/)
+
+I am a 3 time software engineer intern at Google:
+  - Summer 2022: Google Cloud, DAS-Performance, SQL query profiling with BPF with [Tengyu Sun](https://www.linkedin.com/in/tengyusun/) and [Hao Luo](https://www.linkedin.com/in/hao-luo-4683b44b/)
+  - Summer 2020: Google Ads, Google Local Services, improved ranking algorithms for Home Services Ads with Dr. [Bharath Pattabiraman](http://users.eecs.northwestern.edu/~bpa342/Bharath/About_Me.html)
+  - Summer 2019: Google Ads, ContentAds Team, monitoring service for ContentAds requests with Dr. [Darek Yung](https://www.linkedin.com/in/darekyung/?originalSubdomain=ca)
