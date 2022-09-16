@@ -18,7 +18,7 @@ My current works:
 
 My previous research projects:
  - [REFORM: Fast and Adaptive Solution for Subteam Replacement](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo) (IEEE BigData 2022, with Xinyu Pi, Mingyuan Wu, and Prof. [Hanghang Tong](http://tonghanghang.org/))
- - Deep Steerable Graph Generation with Prof. [Carl Yang](http://jiyang3.web.engr.illinois.edu/)
+ - Deep Steerable Graph Generation with Xinyu Pi, Yuheng Chang, and Prof. [Carl Yang](http://jiyang3.web.engr.illinois.edu/)
 
 I am a three-time software engineer intern at Google:
   - Summer 2022: Google Cloud, DAS-Performance, SQL query profiling with BPF with [Tengyu Sun](https://www.linkedin.com/in/tengyusun/) and [Hao Luo](https://www.linkedin.com/in/hao-luo-4683b44b/)
