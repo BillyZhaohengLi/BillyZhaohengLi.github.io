@@ -14,6 +14,7 @@ My research interests lie within **Database Systems** on the topics of **Workloa
 
 My current works:
  - S/C: Speeding up Data Materialization with Bounded Memory (In submission, SIGMOD 2023)
+ - Elastic notebook: fast notebook migration for machine learning and EDA
 
 My previous research projects:
  - [REFORM: Fast and Adaptive Solution for Subteam Replacement](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo) (IEEE BigData 2023, Senior thesis with Xinyu Pi, Mingyuan Wu, and Prof. [Hanghang Tong](http://tonghanghang.org/))
