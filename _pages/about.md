@@ -16,7 +16,7 @@ My current work:
  - Elastic notebook: fast notebook migration for machine learning and EDA
 
 My previous research projects:
- - [S/C: Speeding up Data Materialization with Bounded Memory](https://arxiv.org/abs/2303.09774) (SIGMOD 2023, with Xinyu Pi, and [Prof. Yongjoo Park](https://yongjoopark.com/))
+ - [S/C: Speeding up Data Materialization with Bounded Memory](https://arxiv.org/abs/2303.09774) (ICDE 2023, with Xinyu Pi, and [Prof. Yongjoo Park](https://yongjoopark.com/))
  - [REFORM: Fast and Adaptive Solution for Subteam Replacement](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo) (IEEE BigData 2022, with Xinyu Pi, Mingyuan Wu, and Prof. [Hanghang Tong](http://tonghanghang.org/))
  - Deep Steerable Graph Generation with Xinyu Pi, Yuheng Chang, and Prof. [Carl Yang](http://jiyang3.web.engr.illinois.edu/)
 
