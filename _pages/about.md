@@ -12,11 +12,11 @@ I am a second-year CS PhD student at the [University of Illinois at Urbana-Champ
 
 My research interests lie within **Database Systems** on the topics of **Workload optimization** and **Latency reduction for ad-hoc analytical queries**. My recent work focuses on capturing and utilizing both client and server-side metrics from previous/recurring workloads to speedup future workloads through a combination of caching and pre-computation. I frequently employ techniques from graph mining and combinatorial optimization in my work.
 
-My current works:
- - S/C: Speeding up Data Materialization with Bounded Memory (In submission, SIGMOD 2023)
+My current work:
  - Elastic notebook: fast notebook migration for machine learning and EDA
 
 My previous research projects:
+ - [S/C: Speeding up Data Materialization with Bounded Memory](https://arxiv.org/abs/2303.09774) (SIGMOD 2023, with Xinyu Pi, and [Prof. Yongjoo Park](https://yongjoopark.com/))
  - [REFORM: Fast and Adaptive Solution for Subteam Replacement](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo) (IEEE BigData 2022, with Xinyu Pi, Mingyuan Wu, and Prof. [Hanghang Tong](http://tonghanghang.org/))
  - Deep Steerable Graph Generation with Xinyu Pi, Yuheng Chang, and Prof. [Carl Yang](http://jiyang3.web.engr.illinois.edu/)
 
