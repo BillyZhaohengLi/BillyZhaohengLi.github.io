@@ -3,7 +3,7 @@ title: "REFORM: Fast and Adaptive Solution for Subteam Replacement"
 collection: publications
 permalink: /publication/2020-11-15-REFORM
 ---
-Zhaoheng Li, Xinyu Pi, Mingyuan Wu, Hanghang Tong [(IEEE Bigdata 2022)]([https://arxiv.org/abs/2101.11070](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo))
+**Zhaoheng Li**, Xinyu Pi, Mingyuan Wu, Hanghang Tong [(IEEE Bigdata 2022)]([https://arxiv.org/abs/2101.11070](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo))
 
 **Abstract**
 
