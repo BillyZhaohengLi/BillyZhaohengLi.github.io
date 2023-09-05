@@ -3,7 +3,7 @@ title: "S/C: Speeding up Data Materialization with Bounded Memory"
 collection: publications
 permalink: /publication/2023-04-05-sc
 ---
-**Zhaoheng Li**, Xinyu Pi, Mingyuan Wu, Hanghang Tong [(ICDE 2023)]([https://arxiv.org/abs/2101.11070]([https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo](https://arxiv.org/abs/2303.09774)))
+**Zhaoheng Li**, Xinyu Pi, Yongjoo Park [(ICDE 2023)]([https://arxiv.org/abs/2101.11070]([https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo](https://arxiv.org/abs/2303.09774)))
 
 **Abstract**
 
