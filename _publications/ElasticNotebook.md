@@ -3,7 +3,7 @@ title: "ElasticNotebook: Enabling Live Migration for Computational Notebooks"
 collection: publications
 permalink: /publication/2023-09-15-ElasticNotebook
 ---
-**Zhaoheng Li**, Pranav Gor, Rahul Prabhu, Hui Yu, Yuzhou Mao, Yongjoo Park (VLDB 2024)
+**Zhaoheng Li**, Pranav Gor, Rahul Prabhu, Hui Yu, Yuzhou Mao, Yongjoo Park [(VLDB 2024)](https://vldb.org/2024/)
 
 **Abstract**
 
