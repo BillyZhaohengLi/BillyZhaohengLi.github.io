@@ -18,6 +18,7 @@ My current work:
 
 My previous research projects:
  - [ElasticNotebook: Enabling Live Migration for Computational Notebooks](https://github.com/BillyZhaohengLi/BillyZhaohengLi.github.io/blob/master/files/Elastic_Notebook_Tech_report.pdf) (VLDB 2024, with Pranav Gor, Rahul Prabhu, Hui Yu, Yuzhou Mao, and [Prof. Yongjoo Park](https://yongjoopark.com/))
+ - [Transactional Python for Durable Machine Learning: Vision, Challenges, and Feasibility](https://dl.acm.org/doi/abs/10.1145/3595360.3595855) (SIGMOD DEEM 2023, with Supawit Chockchowaat and [Prof. Yongjoo Park](https://yongjoopark.com/)
  - [S/C: Speeding up Data Materialization with Bounded Memory](https://arxiv.org/abs/2303.09774) (ICDE 2023, with Xinyu Pi, and [Prof. Yongjoo Park](https://yongjoopark.com/))
  - [REFORM: Fast and Adaptive Solution for Subteam Replacement](https://ieeexplore.ieee.org/abstract/document/9671359?casa_token=4K4MmthpCNgAAAAA:XrapT0nWxSeNYMsXVkg8NFtRNSus875QJAaINzA4hTkzRLRsExsGho-1n7Rgj0djbLOFeS6BByo) (IEEE BigData 2022, with Xinyu Pi, Mingyuan Wu, and Prof. [Hanghang Tong](http://tonghanghang.org/))
  - Deep Steerable Graph Generation with Xinyu Pi, Yuheng Chang, and Prof. [Carl Yang](http://jiyang3.web.engr.illinois.edu/)
