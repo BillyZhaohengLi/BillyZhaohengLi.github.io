@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be joining ByteDance's System Infrastructure Lab as a Research Intern for Summer 2025.
+I will be returning to ByteDance's System Infrastructure Lab as a Research Intern for Summer 2025.
