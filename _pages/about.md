@@ -2,16 +2,16 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CS Ph.D. Student @ University of Illinois Urbana-Champaign, Member of [CreateLab](https://createlab.cs.illinois.edu/), [DAIS](https://dais.cs.illinois.edu/), [Department of Computer Science](https://siebelschool.illinois.edu/) 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Thomas M. Siebel Center, Room 2119</p>
+    <p>201 N. Goodwin Ave.</p>
+    <p>Urbana, IL 61801</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
