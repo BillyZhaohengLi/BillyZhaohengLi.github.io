@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-will-be-giving-a-talk-at-pycon-2025-titled-world-s-first-undoable-notebook",
+          title: 'I will be giving a talk at PyCon 2025 titled “World’s First Undoable...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
