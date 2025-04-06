@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/files/CV.pdf";
+            window.location.href = "/assets/pdf/CV.pdf";
           },
         },{id: "nav-teaching",
           title: "teaching",
