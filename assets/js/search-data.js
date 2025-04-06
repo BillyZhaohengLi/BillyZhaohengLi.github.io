@@ -405,15 +405,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-will-be-giving-a-talk-at-pycon-2025-titled-world-s-first-undoable-notebook",
+            },},{id: "news-i-will-be-joining-bytedance-s-system-infrastructure-lab-as-a-research-intern-for-summer-2025",
+          title: 'I will be joining ByteDance’s System Infrastructure Lab as a Research Intern for...',
+          description: "",
+          section: "News",},{id: "news-i-will-be-giving-a-talk-at-pycon-2025-titled-world-s-first-undoable-notebook",
           title: 'I will be giving a talk at PyCon 2025 titled “World’s First Undoable...',
           description: "",
           section: "News",},{id: "projects-project-1",
