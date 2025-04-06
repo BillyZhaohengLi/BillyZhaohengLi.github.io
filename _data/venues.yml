@@ -7,3 +7,30 @@
 
 "Vision":
   color: "#009f36"
+
+"VLDB":
+  url: https://vldb.org/
+  color: "#7081ff"
+
+"SIGMOD":
+  url: https://sigmod.org/
+  color: "#7081ff"
+
+"SIGMOD DEEM":
+  url: https://deem-workshop.github.io/
+  color: "#ffb0c2"
+
+"ICDE":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings
+  color: "#7081ff"
+
+"demo":
+  color: "#ffb0c2"
+
+"SRC":
+  url: https://src.acm.org/
+  color: "#ffb0c2"
+
+"IEEE BigData":
+  url: https://bigdataieee.org/
+  color: "#7081ff"
