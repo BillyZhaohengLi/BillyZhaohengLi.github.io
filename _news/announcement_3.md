@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-04-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will be giving a talk at [PyCon 2025](https://us.pycon.org/2025/) titled "World's First Undoable Notebook".
