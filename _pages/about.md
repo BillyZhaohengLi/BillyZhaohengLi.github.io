@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: CS Ph.D. Student @ University of Illinois Urbana-Champaign, Member of [CreateLab](https://createlab.cs.illinois.edu/), [DAIS](https://dais.cs.illinois.edu/), [Department of Computer Science](https://siebelschool.illinois.edu/) 
+subtitle: CS Ph.D. Student @ University of Illinois Urbana-Champaign
 
 profile:
   align: right
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fourth-year CS PhD student at the University of Illinois at Urbana-Champaign (UIUC) advised by Prof. [Yongjoo Park](https://yongjoopark.com/). I am a member of [CreateLab](https://createlab.cs.illinois.edu/) and [DAIS](https://dais.cs.illinois.edu/). My research interests are **Systems for AI and ML**, **Interactive data analytics**, **Vector databases**, and **Graph algorithms**. I currently work extensively with computational notebooks and vector indexing; my work aims to bridge established database principles with these emerging technologies used extensively in exploratory AI to enhance user experience.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I dedicate my summers to internships. I have recently interned in ByteDance's System Infrastructure Lab and worked on indexing for filtered vector search. I have also interned four times at Google, working on efficient group by for structs in [Google BigQuery](https://cloud.google.com/bigquery), SQL profiling with BPF in [Google S2Infra](https://techsysinfra.google/), ads ranking algorithms in [Google Local Services](https://business.google.com/us/ad-solutions/local-service-ads), and ad request monitoring pipelines in [Google ContentAds](https://business.google.com/in/google-ads/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my undergraduate study at UIUC, I was fortunate to get early exposure to research, starting with a fun side project of DOTA2 match outcome prediction in the Esports Analytics Lab. I then proceeded with involved works: Deep Steerable Graph Generation with Prof. [Carl Yang](https://www.cs.emory.edu/~jyang71/), and my bachelor's thesis "REFORM: Fast and Adaptive Solution for Subteam Replacement" advised by Prof. [Hanghang Tong](http://tonghanghang.org/). 
