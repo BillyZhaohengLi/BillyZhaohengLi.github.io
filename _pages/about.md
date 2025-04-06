@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth-year CS PhD student at the University of Illinois at Urbana-Champaign (UIUC) advised by Prof. [Yongjoo Park](https://yongjoopark.com/). I am a member of [CreateLab](https://createlab.cs.illinois.edu/) and [DAIS](https://dais.cs.illinois.edu/). My research interests are **Systems for AI and ML**, **Interactive data analytics**, **Vector databases**, and **Graph algorithms**. I currently work extensively with computational notebooks and vector indexing; my work aims to bridge established database principles with these emerging technologies used extensively in exploratory AI to enhance user experience.
+I am a fourth-year CS PhD student at the University of Illinois at Urbana-Champaign (UIUC) advised by Prof. [Yongjoo Park](https://yongjoopark.com/). I am a member of [CreateLab](https://createlab.cs.illinois.edu/) and [DAIS](https://dais.cs.illinois.edu/). My research interests are **Systems for AI and ML**, **Interactive data analytics**, **Vector databases**, and **Graph algorithms**.
+
+I currently work extensively with computational notebooks and vector indexing; my work aims to bridge established database principles with these emerging technologies used extensively in exploratory AI to enhance user experience.
 
 I dedicate my summers to internships. I have recently interned in ByteDance's System Infrastructure Lab and worked on indexing for filtered vector search. I have also interned four times at Google, working on efficient group by for structs in [Google BigQuery](https://cloud.google.com/bigquery), SQL profiling with BPF in [Google S2Infra](https://techsysinfra.google/), ads ranking algorithms in [Google Local Services](https://business.google.com/us/ad-solutions/local-service-ads), and ad request monitoring pipelines in [Google ContentAds](https://business.google.com/in/google-ads/). 
 
