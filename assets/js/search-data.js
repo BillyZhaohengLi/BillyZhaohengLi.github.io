@@ -405,11 +405,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-i-will-be-returning-to-bytedance-s-system-infrastructure-lab-as-a-research-intern-for-summer-2025",
           title: 'I will be returning to ByteDance’s System Infrastructure Lab as a Research Intern...',
           description: "",
