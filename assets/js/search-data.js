@@ -410,8 +410,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-will-be-joining-bytedance-s-system-infrastructure-lab-as-a-research-intern-for-summer-2025",
-          title: 'I will be joining ByteDance’s System Infrastructure Lab as a Research Intern for...',
+            },},{id: "news-i-will-be-returning-to-bytedance-s-system-infrastructure-lab-as-a-research-intern-for-summer-2025",
+          title: 'I will be returning to ByteDance’s System Infrastructure Lab as a Research Intern...',
           description: "",
           section: "News",},{id: "news-i-will-be-giving-a-talk-at-pycon-2025-titled-world-s-first-undoable-notebook",
           title: 'I will be giving a talk at PyCon 2025 titled “World’s First Undoable...',
