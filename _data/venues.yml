@@ -18,18 +18,18 @@
 
 "SIGMOD DEEM":
   url: https://deem-workshop.github.io/
-  color: "#ffb0c2"
+  color: "#4D4D4D"
 
 "ICDE":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings
   color: "#7081ff"
 
 "demo":
-  color: "#ffb0c2"
+  color: "#4D4D4D"
 
 "SRC":
   url: https://src.acm.org/
-  color: "#ffb0c2"
+  color: "#4D4D4D"
 
 "IEEE BigData":
   url: https://bigdataieee.org/
