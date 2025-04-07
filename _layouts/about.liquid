@@ -48,12 +48,14 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
-    <!-- Latest posts -->
-    {% if page.latest_posts and page.latest_posts.enabled %}
+    <!-- Additional Content from Markdown -->
+    {% if page.additional_markdown %}
       <h2>
-        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">Projects I have Demos For</a>
+        Additional Content
       </h2>
-      {% include latest_posts.liquid %}
+      <div class="markdown-content">
+        {{ page.additional_markdown | markdownify }}
+      </div>
     {% endif %}
 
     <!-- Selected papers -->
