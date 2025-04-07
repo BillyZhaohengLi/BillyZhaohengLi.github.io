@@ -34,17 +34,3 @@ I currently work extensively with computational notebooks and vector indexing; m
 I dedicate my summers to internships. I have recently interned in ByteDance's System Infrastructure Lab and worked on indexing for filtered vector search. I have also interned four times at Google, working on efficient group by for structs in [Google BigQuery](https://cloud.google.com/bigquery), SQL profiling with BPF in [Google S2Infra](https://techsysinfra.google/), ads ranking algorithms in [Google Local Services](https://business.google.com/us/ad-solutions/local-service-ads), and ad request monitoring pipelines in [Google ContentAds](https://business.google.com/in/google-ads/). 
 
 During my undergraduate study at UIUC, I was fortunate to get early exposure to research, starting with a fun side project of DOTA2 match outcome prediction in the Esports Analytics Lab. I then proceeded with involved works: Deep Steerable Graph Generation with Prof. [Carl Yang](https://www.cs.emory.edu/~jyang71/), and my bachelor's thesis "REFORM: Fast and Adaptive Solution for Subteam Replacement" advised by Prof. [Hanghang Tong](http://tonghanghang.org/). 
-
-## Research Projects
-
-Here are some of the research projects I'm currently working on.
-
-### Kishu: Versioned and Undoable Notebook System
-
-[Kishu](https://github.com/illinoisdata/kishu) allows users to manage notebook states through a Git-like commit and checkout interface. Hate it when you accidently drop your dataframe column or overwrite your ML models in Colab or Jupyter for the millionth time? Slam that undo button in Kishu!
-
-<br>
-<div align="center">
-<img width="960" src="../assets/img/undo_clip.gif"/>
-</div>
-<br>
