@@ -1,6 +1,6 @@
 ---
 layout: page
-additional_markdown: |
+more_content: |
   ## Example Markdown Content
   This is some additional content written in markdown.
   - Item 1
